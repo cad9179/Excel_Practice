@@ -1,0 +1,20 @@
+,,,,,,Analysis of variables,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+TARGET_deathRate,,medIncome,,povertyPercent,,MedianAgeMale,,MedianAgeFemale,,PctWhite,,PctBlack,,PctAsian,
+,,,,,,,,,,,,,,,
+Mean,178.664063,Mean,47063.28192,Mean,16.87817525,Mean,39.5707253,Mean,42.14532327,Mean,83.64528623,Mean,9.107977615,Mean,1.253964964
+Standard Error,0.50274807,Standard Error,218.1190193,Standard Error,0.116107409,Standard Error,0.094674837,Standard Error,0.095885577,Standard Error,0.296741535,Standard Error,0.263308575,Standard Error,0.047287926
+Median,178.1,Median,45207,Median,15.9,Median,39.6,Median,42.4,Median,90.05977419,Median,2.247576296,Median,0.549811749
+Mode,184.3,Mode,34116,Mode,13.9,Mode,40.3,Mode,42.9,Mode,97.21254355,Mode,0,Mode,0
+Standard Deviation,27.75151132,Standard Deviation,12040.09084,Standard Deviation,6.409086895,Standard Deviation,5.226016685,Standard Deviation,5.292849115,Standard Deviation,16.38002523,Standard Deviation,14.53453792,Standard Deviation,2.610276393
+Sample Variance,770.1463805,Sample Variance,144963787.3,Sample Variance,41.07639483,Sample Variance,27.31125039,Sample Variance,28.01425176,Sample Variance,268.3052265,Sample Variance,211.2527926,Sample Variance,6.813542846
+Kurtosis,1.354621723,Kurtosis,3.713317625,Kurtosis,1.276067564,Kurtosis,0.676204857,Kurtosis,0.576622733,Kurtosis,2.690920006,Kurtosis,5.039433092,Kurtosis,78.3972677
+Skewness,0.274724165,Skewness,1.40807073,Skewness,0.930712509,Skewness,0.132040933,Skewness,-0.208383865,Skewness,-1.68090421,Skewness,2.258068428,Skewness,7.418040528
+Range,303.1,Range,102995,Range,44.2,Range,42.3,Range,43.4,Range,89.8008449,Range,85.94779858,Range,42.61942454
+Minimum,59.7,Minimum,22640,Minimum,3.2,Minimum,22.4,Minimum,22.3,Minimum,10.1991551,Minimum,0,Minimum,0
+Maximum,362.8,Maximum,125635,Maximum,47.4,Maximum,64.7,Maximum,65.7,Maximum,100,Maximum,85.94779858,Maximum,42.61942454
+Sum,544389.4,Sum,143401820,Sum,51427.8,Sum,120572,Sum,128416.8,Sum,254867.1872,Sum,27752.00779,Sum,3820.831246
+Count,3047,Count,3047,Count,3047,Count,3047,Count,3047,Count,3047,Count,3047,Count,3047
+Confidence Level(95.0%),0.985759812,Confidence Level(95.0%),427.6753629,Confidence Level(95.0%),0.227656801,Confidence Level(95.0%),0.185633033,Confidence Level(95.0%),0.188006984,Confidence Level(95.0%),0.581833919,Confidence Level(95.0%),0.516280472,Confidence Level(95.0%),0.092719475
